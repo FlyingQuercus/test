@@ -1,0 +1,6 @@
+{
+  "name": "Linear FFT Spectrum Analyzer",
+  "description": "Linear FFT spectrum analyzer and materials Young's Modulus calculator with microphone recording and waveform trimming.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
